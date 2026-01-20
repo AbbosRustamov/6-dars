@@ -12,3 +12,4 @@ C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\n
 C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.pdb
 C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.genruntimeconfig.cache
 C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\ref\6-dars.dll
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.sourcelink.json

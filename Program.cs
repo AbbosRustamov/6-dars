@@ -6,14 +6,7 @@ namespace dars
     {
         static void Main(string[]args)
         {
-
-
-
-            /*int count = 1;
-
-
-            while(count <= 10)
-            {
+           /* Console.Write("'hello'");
                 Console.WriteLine(count);
                 count++;
             }*/
