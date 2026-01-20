@@ -1,0 +1,14 @@
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\bin\Debug\net10.0\6-dars.exe
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\bin\Debug\net10.0\6-dars.deps.json
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\bin\Debug\net10.0\6-dars.runtimeconfig.json
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\bin\Debug\net10.0\6-dars.dll
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\bin\Debug\net10.0\6-dars.pdb
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.AssemblyInfoInputs.cache
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.AssemblyInfo.cs
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.csproj.CoreCompileInputs.cache
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.dll
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\refint\6-dars.dll
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.pdb
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\6-dars.genruntimeconfig.cache
+C:\Users\notebook\OneDrive\Рабочий стол\PDP-online\6-dars\obj\Debug\net10.0\ref\6-dars.dll
